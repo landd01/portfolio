@@ -54,7 +54,7 @@ section .title{
     font-weight: 500;
     margin-bottom: 60px;
     padding-bottom: 20px;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Arial', sans-serif;
 }
 section .title::before{
     content: "";
@@ -378,7 +378,7 @@ section .title::after{
     width: 100%;
 }
 
-/* teams section styling */
+/* award section styling */
 .teams .title::after{
     content: "My Award";
 }
